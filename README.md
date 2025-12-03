@@ -13,7 +13,7 @@
 
 To install `go-cuddle`, use `go get`:
 ```sh
-go get github.com/benodiwal/go-cuddle
+go get github.com/jamal5p/go-cuddle
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ package main
 
 import (
     "github.com/gin-gonic/gin"
-    "github.com/benodiwal/go-cuddle"
+    "github.com/jamal5p/go-cuddle"
     "net/http"
     "time"
 )
@@ -102,7 +102,7 @@ import (
     "net/http"
     "time"
 
-    "github.com/benodiwal/go-cuddle"
+    "github.com/jamal5p/go-cuddle"
 )
 
 var (
